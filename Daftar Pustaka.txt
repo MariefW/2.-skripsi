@@ -1,1 +1,4 @@
 https://www.mongabay.co.id/2019/01/02/prinsip-keberlanjutan-untuk-penyelamatan-kepiting-dan-rajungan-seperti-apa/
+https://achmatim.net/2017/03/19/mengukur-kinerja-algoritma-klasifikasi-dengan-confusion-matrix/
+https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
+https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148#:~:targetText=Pooling%20Layer,map%20but%20retains%20important%20information.
